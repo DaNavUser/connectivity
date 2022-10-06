@@ -1,3 +1,3 @@
 ﻿# connectivity
  
- GAT is better than MPNN in modeling global information, tested it on CLS and CLUSTER datasets.
+ GAT is better than MPNN in modeling global information, tested on CLS and CLUSTER datasets.
